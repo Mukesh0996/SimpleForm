@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/githb.io/simpleform/static/css/main.352791a9.chunk.css",
-    "main.js": "/githb.io/simpleform/static/js/main.f0a11252.chunk.js",
-    "main.js.map": "/githb.io/simpleform/static/js/main.f0a11252.chunk.js.map",
-    "runtime-main.js": "/githb.io/simpleform/static/js/runtime-main.7325fc23.js",
-    "runtime-main.js.map": "/githb.io/simpleform/static/js/runtime-main.7325fc23.js.map",
-    "static/js/2.a6a4fb1d.chunk.js": "/githb.io/simpleform/static/js/2.a6a4fb1d.chunk.js",
-    "static/js/2.a6a4fb1d.chunk.js.map": "/githb.io/simpleform/static/js/2.a6a4fb1d.chunk.js.map",
-    "index.html": "/githb.io/simpleform/index.html",
-    "static/css/main.352791a9.chunk.css.map": "/githb.io/simpleform/static/css/main.352791a9.chunk.css.map",
-    "static/js/2.a6a4fb1d.chunk.js.LICENSE.txt": "/githb.io/simpleform/static/js/2.a6a4fb1d.chunk.js.LICENSE.txt"
+    "main.css": "/simpleform/static/css/main.352791a9.chunk.css",
+    "main.js": "/simpleform/static/js/main.f0a11252.chunk.js",
+    "main.js.map": "/simpleform/static/js/main.f0a11252.chunk.js.map",
+    "runtime-main.js": "/simpleform/static/js/runtime-main.4a256f75.js",
+    "runtime-main.js.map": "/simpleform/static/js/runtime-main.4a256f75.js.map",
+    "static/js/2.a6a4fb1d.chunk.js": "/simpleform/static/js/2.a6a4fb1d.chunk.js",
+    "static/js/2.a6a4fb1d.chunk.js.map": "/simpleform/static/js/2.a6a4fb1d.chunk.js.map",
+    "index.html": "/simpleform/index.html",
+    "static/css/main.352791a9.chunk.css.map": "/simpleform/static/css/main.352791a9.chunk.css.map",
+    "static/js/2.a6a4fb1d.chunk.js.LICENSE.txt": "/simpleform/static/js/2.a6a4fb1d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7325fc23.js",
+    "static/js/runtime-main.4a256f75.js",
     "static/js/2.a6a4fb1d.chunk.js",
     "static/css/main.352791a9.chunk.css",
     "static/js/main.f0a11252.chunk.js"
